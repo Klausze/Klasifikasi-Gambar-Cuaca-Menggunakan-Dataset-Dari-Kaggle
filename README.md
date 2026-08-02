@@ -43,9 +43,6 @@ _(isi setelah menjalankan notebook)_
 2. Runtime > Change runtime type > pilih **T4 GPU**.
 3. Runtime > Run all.
 4. Saat diminta, upload `kaggle.json` (didapat dari kaggle.com/settings > Create New Token).
-5. Setelah selesai, download folder `submission/` (berisi saved_model, tflite, tfjs_model,
-   requirements.txt), tambahkan `notebook.ipynb` dan `README.md` ini, lalu kompres menjadi
-   file `.zip` untuk dikumpulkan.
 
 ## Struktur Direktori Submission
 ```
