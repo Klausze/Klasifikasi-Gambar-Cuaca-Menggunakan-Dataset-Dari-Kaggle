@@ -1,0 +1,9 @@
+tensorflow==2.17.0
+tensorflowjs==4.20.0
+split-folders==0.5.1
+numpy
+pandas
+matplotlib
+pillow
+scikit-learn
+kaggle
