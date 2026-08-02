@@ -15,9 +15,9 @@ gambar kondisi cuaca ke dalam 4 kelas: **cloudy**, **rain**, **shine**, dan **su
 diikuti `Flatten`, `Dropout`, dan `Dense` layer dengan aktivasi `softmax` untuk 4 kelas.
 
 ## Pembagian Data
-- Train: 80%
+- Train: 70%
 - Validation: 10%
-- Test: 10%
+- Test: 20%
 
 Augmentasi data (rotasi, shift, shear, zoom, brightness, horizontal flip) hanya
 diterapkan pada data training.
